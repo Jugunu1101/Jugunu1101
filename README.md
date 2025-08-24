@@ -62,9 +62,9 @@
 
 ---
 
-### 🐍 Watch Your Contributions Get Eaten by a Snake:
+### 🐍 Watch My Contributions Come Alive!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jugnu1101/jugnu1101/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
