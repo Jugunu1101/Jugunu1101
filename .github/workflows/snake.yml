@@ -1,8 +1,8 @@
-name: Generate GitHub Snake Animation
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once a day
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch:     # Allows manual run
 
 jobs:
@@ -12,15 +12,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Jugunu1101   # ✅ Replace with your username
-          gif_out_path: dist/github-snake.gif
-          svg_out_path: dist/github-snake.svg
+          github_user_name: Jugunu1101  # 🔥 Replace with your username
+          outputs: |
+            dist/github-snake.svg
 
-      - name: Upload files to GitHub
-        uses: actions/upload-artifact@v3
+      - name: Push Snake SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          name: snake-animations
-          path: dist/
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
