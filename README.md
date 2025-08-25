@@ -64,7 +64,7 @@
 
 ### 🐍 Watch My Contributions Come Alive!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jugunu1101/Jugunu1101/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Jugunu1101/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 ### 🎯 Fun Hacker Vibes:
 <p align="center">
