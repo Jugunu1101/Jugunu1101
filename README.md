@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/oF5oUYTOhvFnO/giphy.gif" width="400" alt="Cybersecurity Animation">
 </p>
 
-<h1 align="center">Hi 👋, I'm Mr jugnu</h1>
+<h1 align="center">Hi 👋,This is Mr jugnu</h1>
 <h3 align="center">A passionate frontend developer and cybersecurity enthusiast from India</h3>
 
 ---
