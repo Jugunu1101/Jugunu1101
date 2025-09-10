@@ -151,11 +151,19 @@ def ethical_hacking_mindset():
 
 ## 🎮 FUN FACTS
 
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpSoK8I/giphy.gif" width="300" height="200"/>
+</div>
+
 - 🧠 Love solving algorithmic puzzles and CTF challenges
 - 🔍 Fascinated by how systems can be secured and exploited ethically  
 - 🌙 Code best during late night hours (true hacker style)
 - ☕ Powered by coffee and curiosity
 - 🎯 Goal: Contribute to making the internet a safer place
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" height="150"/>
+</div>
 
 ---
 
