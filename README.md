@@ -152,7 +152,7 @@ def ethical_hacking_mindset():
 ## 🎮 FUN FACTS
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpSoK8I/giphy.gif" width="300" height="200"/>
+  <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="400" height="200"/>
 </div>
 
 - 🧠 Love solving algorithmic puzzles and CTF challenges
@@ -162,7 +162,11 @@ def ethical_hacking_mindset():
 - 🎯 Goal: Contribute to making the internet a safer place
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" height="150"/>
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" height="200"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Coffee+%2B+Code+%3D+Hacker;Think+Different%2C+Code+Smart;Debug+The+World;01001000+01100001+01100011+01101011" alt="Fun Facts Typing SVG" />
 </div>
 
 ---
