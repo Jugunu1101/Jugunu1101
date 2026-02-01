@@ -178,10 +178,6 @@ def ethical_hacking_mindset():
 
 ## 🎮 FUN FACTS
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="400" height="200"/>
-</div>
-
 - 🧠 Love solving algorithmic puzzles and CTF challenges
 - 🔍 Fascinated by how systems can be secured and exploited ethically 
 - 🌙 Code best during late night hours (true hacker style)
