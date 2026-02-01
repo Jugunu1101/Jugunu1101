@@ -87,11 +87,6 @@ class EthicalHacker:
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Jugunu1101">
-    <img src="https://streak-stats.demolab.com?user=Jugunu1101&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
-  </a>
-</div>
 
 ## 🎯 CURRENT MISSIONS
 
@@ -137,6 +132,12 @@ class EthicalHacker:
 - 🔍 **Security Enthusiast**: Currently pursuing cybersecurity expertise
 - 📚 **Continuous Learner**: Always updating skills and knowledge
 
+## 🏅 TROPHIES
+
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Jugunu1101&theme=onedark&row=1&column=7&margin-w=8&margin-h=8&no-frame=true" alt="GitHub Trophies" />
+</div>
+
 ## 📡 SECURE COMMUNICATION CHANNELS
 
 <div align="center">
@@ -177,6 +178,7 @@ def ethical_hacking_mindset():
 ```
 
 ## 🎮 FUN FACTS
+
 
 - 🧠 Love solving algorithmic puzzles and CTF challenges
 - 🔍 Fascinated by how systems can be secured and exploited ethically 
