@@ -11,8 +11,8 @@
   <br/>
 
   ### 🔥 SYSTEM STATUS: ONLINE 🔥
-    ** Ethical Hacker | Code Warrior 💻 | Cybersecurity Enthusiast 🔐 **
-
+      Ethical Hacker | Code Warrior 💻 | Cybersecurity Enthusiast 🔐 
+      
   <img src="https://komarev.com/ghpvc/?username=Jugunu1101&label=INTRUSION+ATTEMPTS&color=brightgreen&style=for-the-badge" alt="Profile views" />
 </div>
 
