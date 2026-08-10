@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=ACCESS+GRANTED...;INITIALIZING+SYSTEMS...;WELCOME+TO+THE+MATRIX;CYBERSECURITY+ENTHUSIAST;ETHICAL+HACKER+IN+TRAINING" alt="Typing SVG" />
 </div>
 
-```ascii
-██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗
-██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
-███████║███████║██║     █████╔╝ █████╗  ██████╔╝
-██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
-██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Rain" />
@@ -19,7 +11,7 @@
   <br/>
 
   ### 🔥 SYSTEM STATUS: ONLINE 🔥
-  **Ethical Hacker | Code Warrior | Security Researcher**
+**   Ethical Hacker | Code Warrior 💻 | Cybersecurity Enthusiast 🔐 **
 
   <img src="https://komarev.com/ghpvc/?username=Jugunu1101&label=INTRUSION+ATTEMPTS&color=brightgreen&style=for-the-badge" alt="Profile views" />
 </div>
@@ -29,17 +21,17 @@
 ```python
 class EthicalHacker:
     def __init__(self):
-        self.name = "Nitin Negi"
+        self.name = "jugnu"
         self.role = "Cybersecurity Enthusiast"
         self.status = "Learning & Exploring"
         self.mission = "Securing the digital world, one vulnerability at a time"
         
     def get_skills(self):
         return {
-            "programming": ["C/C++", "Python", "HTML", "CSS"],
+            "programming": ["C/C++", "Python","java"],
             "security": ["Penetration Testing", "Vulnerability Assessment", "Network Security"],
             "specialties": ["Data Structures & Algorithms", "Web Security", "System Analysis"],
-            "tools": ["Kali Linux", "Burp Suite", "Wireshark", "Metasploit"],
+            "tools": ["Kali Linux", "Burp Suite", "Wireshark", "Metasploit","Nmap"],
             "currently_learning": ["Advanced Cybersecurity", "Ethical Hacking", "OSCP Prep"]
         }
 ```
@@ -161,21 +153,7 @@ class EthicalHacker:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=CONNECT%20WITH%20ME&fontSize=20&fontColor=fff&animation=fadeIn" />
 </div>
 
-## 💭 HACKER PHILOSOPHY
 
-> "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards." – Gene Spafford
-
-```python
-def ethical_hacking_mindset():
-    principles = {
-        "curiosity": "Always question how things work",
-        "responsibility": "Use skills for protecting, not harming",
-        "continuous_learning": "Stay updated with latest threats",
-        "community": "Share knowledge and help others learn",
-        "integrity": "Follow ethical guidelines and laws"
-    }
-    return principles
-```
 
 ## 🎮 FUN FACTS
 
