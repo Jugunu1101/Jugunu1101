@@ -124,11 +124,13 @@ class EthicalHacker:
 - 🔍 **Security Enthusiast**: Currently pursuing cybersecurity expertise
 - 📚 **Continuous Learner**: Always updating skills and knowledge
 
+
 ## 🏅 TROPHIES
 
 <div align="center">
   <img src="https://trophy.ryglcloud.net/?username=Jugunu1101&theme=onedark&row=1&column=7&margin-w=8&margin-h=8&no-frame=true" alt="GitHub Trophies" />
 </div> 
+
 
 
 ## 📡 SECURE COMMUNICATION CHANNELS
